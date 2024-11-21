@@ -1,0 +1,12 @@
+#form_container {
+    width: 50%;
+    background-color: rgba(127, 0, 127, 0.5);
+    border-radius: 5%;
+    padding: 1.5rem;
+    margin: 1rem auto 1rem auto;
+    font-size: x-large;
+}
+
+#form_container > form > button {
+    cursor: pointer;
+}
